@@ -1,4 +1,4 @@
-IronSight: Weapon Detection Using Computer Vision
+[IronSight: Weapon Detection Using Computer Vision
 Introduction
 IronSight is a computer vision-based weapon detection system designed to enhance public safety in high-risk environments such as airports, schools, and malls. By leveraging YOLOv7 for object detection, IronSight aims to proactively identify threats and facilitate timely intervention.
 
@@ -63,3 +63,4 @@ Thank You!
 
 
 For more details, visit our GitHub repository.
+](https://github.com/deeptiagrawal19/visual-ai-hack)
